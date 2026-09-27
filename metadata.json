@@ -1,0 +1,7 @@
+{
+  "name": "Ibrahim's AI",
+  "description": "An extremely intelligent, reliable, and respectful artificial intelligence assistant designed to help users learn and solve problems.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
