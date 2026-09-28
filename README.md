@@ -1,4 +1,4 @@
- HEAD
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
@@ -26,9 +26,10 @@ An AI-powered search bot that answers day-to-day questions for real users, provi
 
 ## Features
 - Natural language question answering
-- Fast, accurate responses for everyday queries
+- Fast, accurate responses for everyday 
+- Voice input powered by vapi
 - Deployed for real user testing
 
 ## Built with
 - Google AI Studio
- bb37384c21355dfa87c3cc475e1be6308e6a0f5d
+
